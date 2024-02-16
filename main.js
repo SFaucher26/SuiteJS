@@ -1,7 +1,7 @@
 let div = document.querySelectorAll("div");
 let btns = document.querySelectorAll("button");
 let btn = document.querySelector("#toggle");
-const delay = Math.floor(Math.random() * 5000);
+const delay = Math.floor(Math.random() * 10000);
 console.log(delay);
 
 console.log(delay);
